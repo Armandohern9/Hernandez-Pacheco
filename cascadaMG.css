@@ -1,0 +1,29 @@
+header
+{
+	background-color: rgb(117, 177, 142);
+	color: rgb(0, 0, 0);
+	border-style: solid;
+  	border-width: 5px;
+	border-radius: 5px 10px;
+	border-color: black;
+}
+
+footer
+{
+	padding: 10px 20px; 
+	background: rgb(117, 177, 142); 
+	color: rgb(0, 0, 0);
+}
+
+.algor
+{
+	font-style: italic;
+	color: rgb(0, 0, 0);
+}
+
+.otroF
+{
+	padding: 5px 10px; 
+	background: rgb(117, 177, 142); 
+	color: rgb(0, 0, 0);
+}
